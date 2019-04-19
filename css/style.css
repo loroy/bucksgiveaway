@@ -250,7 +250,17 @@ border-radius: 50px; /*bordes redondos*/
     font-weight:600;
     margin-bottom:15px;
 }
-
+.boton-personalizado-2 {
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:150px;
+padding-right:150px;
+background-color:#FFD27D;
+}
 #errormessage {
     color: red;
     display:none;
