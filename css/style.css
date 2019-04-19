@@ -92,6 +92,7 @@ table {
 }
 .boton {
 border: 100px solid #2e518b; /*anchura, estilo y color borde*/
+width:600	
 padding: 10px; /*espacio alrededor texto*/
 background-color: #2e518b; /*color botón*/
 color: #ffffff; /*color texto*/
