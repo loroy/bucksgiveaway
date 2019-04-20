@@ -50,6 +50,7 @@ table {
     text-align: center;
     margin:  110px 0px 69px;
     min-height: 104px;
+    color: #000000;	
 }
 #countdown > div {
     width: 100px;
